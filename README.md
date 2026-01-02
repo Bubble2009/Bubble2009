@@ -3,8 +3,7 @@
 :speech_balloon: While I was at it, I wrote something, but nothing related;<br>
 :point_right: Maybe I'll continue to pass by here;<br>
 :metal: Rock and roll for everyone;<br>
-:lock: PGP Key
-
+:lock: [PGP Key](assets/Bubble2009.asc)
 
 
 <!--
