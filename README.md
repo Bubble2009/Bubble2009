@@ -1,4 +1,11 @@
-## Hi there 👋
+## :fire: something about **Bubble2009**
+:hand: I was passing by here and stopped to browse;<br>
+:speech_balloon: While I was at it, I wrote something, but nothing related;<br>
+:point_right: Maybe I'll continue to pass by here;<br>
+:metal: Rock and roll for everyone;<br>
+:lock: PGP Key
+
+
 
 <!--
 **Bubble2009/Bubble2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
