@@ -5,7 +5,7 @@
 :metal: Rock and roll for everyone;<br>
 :wrench: I don't code because I don't know how to code;<br>
 :pill: I don't divulge cause I'm a terribile  speaker;<br>
-:newspaper: Sometimes I write my thoughts on some topic;
+:newspaper: Sometimes I write my thoughts on some topic;<br>
 :lock: [PGP Key](assets/Bubble2009.asc)
 
 #### Writings already published
