@@ -18,6 +18,7 @@ language: :it:
 * :secret: Tails
 * :game_die: Dice
 * :email: PGP
+* :watch: Watch
 
 
 <!--
