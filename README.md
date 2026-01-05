@@ -3,7 +3,21 @@
 :speech_balloon: While I was at it, I wrote something, but nothing related;<br>
 :point_right: Maybe I'll continue to pass by here;<br>
 :metal: Rock and roll for everyone;<br>
+:wrench: I don't code because I don't know how to code;<br>
+:pill: I don't divulge cause I'm a terribile  speaker;<br>
+:newspaper: Sometimes I write my thoughts on some topic;
 :lock: [PGP Key](assets/Bubble2009.asc)
+
+#### Writings already published
+* :iphone: [Private telephone. How? Where? When and why?](https://github.com/Bubble2009/Private-telephone-How-where-when-and-why-)<br>
+language: :it:
+* :arrow_right: [TOR vs VPN](https://github.com/Bubble2009/TOR-vs-VPN)<br>
+language: :it:
+
+#### I'm working on
+* :secret: Tails
+* :game_die: Dice
+* :email: PGP
 
 
 <!--
