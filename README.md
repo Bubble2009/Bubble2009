@@ -13,7 +13,7 @@
 language: :it:
 * :arrow_right: [TOR vs VPN](https://github.com/Bubble2009/TOR-vs-VPN)<br>
 language: :it:
-* :watch: [Watch](https://github.com/Bubble2009/Chronograph) (Under construction)<br> 
+* :watch: [Watch](https://github.com/Bubble2009/Chronograph) (partially published - under construction)<br> 
 language: :it:
 
 #### I'm working on
