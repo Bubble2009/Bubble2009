@@ -13,8 +13,14 @@
 language: :it:
 * :arrow_right: [TOR vs VPN](https://github.com/Bubble2009/TOR-vs-VPN)<br>
 language: :it:
+* :moyai: [Telegram Tips](https://github.com/Bubble2009/Telegram-Tips)<br>
+language: :it:
+* :postbox: [about Fee on BitPost](https://github.com/Bubble2009/Bitpost-s-Fee)<br>
+language: :it:
 * :watch: [Watch](https://github.com/Bubble2009/Chronograph) (partially published - under construction)<br> 
 language: :it:
+
+
 
 #### I'm working on
 * :secret: Tails
