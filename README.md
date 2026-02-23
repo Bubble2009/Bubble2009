@@ -9,11 +9,11 @@
 :lock: [PGP Key](assets/Bubble2009.asc)
 
 #### Writings already published
+* :moyai: [Telegram Tips](https://github.com/Bubble2009/Telegram-Tips) (*Evolving handbook*)<br>
+language: :it:
 * :iphone: [Private telephone. How? Where? When and why?](https://github.com/Bubble2009/Private-telephone-How-where-when-and-why-)<br>
 language: :it:
 * :arrow_right: [TOR vs VPN](https://github.com/Bubble2009/TOR-vs-VPN)<br>
-language: :it:
-* :moyai: [Telegram Tips](https://github.com/Bubble2009/Telegram-Tips)<br>
 language: :it:
 * :postbox: [about Fee on BitPost](https://github.com/Bubble2009/Bitpost-s-Fee)<br>
 language: :it:
