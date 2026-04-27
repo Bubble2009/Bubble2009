@@ -8,6 +8,8 @@
 :newspaper: Sometimes I write my thoughts on some topic;<br>
 :lock: [PGP Key](assets/Bubble2009.asc)
 
+---
+
 #### Writings already published
 * :moyai: [Telegram Tips](https://github.com/Bubble2009/Telegram-Tips) (*Evolving handbook*)<br>
 language: :it:
@@ -15,14 +17,19 @@ language: :it:
 language: :it:
 * :arrow_right: [TOR vs VPN](https://github.com/Bubble2009/TOR-vs-VPN)<br>
 language: :it:
-* :warning: [Wallet of Satoshi self custody](https://github.com/Bubble2009/Wallet-of-Satoshi-Self-Custody)<br>
+* :warning: [Wallet of Satoshi self custody](https://github.com/Bubble2009/Wallet-of-Satoshi-Self-Custody) *updated on April 04, 2026*<br>
+language: :it:
+* :warning: [Tether Wallet](https://github.com/Bubble2009/Tether-Wallet-spark-based)
 language: :it:
 * :postbox: [about Fee on BitPost](https://github.com/Bubble2009/Bitpost-s-Fee)<br>
 language: :it:
-* :watch: [Watch](https://github.com/Bubble2009/Chronograph) (partially published - under construction)<br> 
+* :watch: [Watch](https://github.com/Bubble2009/Chronograph) (partially published - under construction)<br>
 language: :it:
+  * Solar-powered watch
+  * Quartz clock
+  * Chronograph<br>
 
-
+---
 
 #### I'm working on
 * :secret: Tails
