@@ -19,7 +19,7 @@ language: :it:
 language: :it:
 * :warning: [Wallet of Satoshi self custody](https://github.com/Bubble2009/Wallet-of-Satoshi-Self-Custody) *updated on April 04, 2026*<br>
 language: :it:
-* :warning: [Tether Wallet](https://github.com/Bubble2009/Tether-Wallet-spark-based)
+* :warning: [Tether Wallet](https://github.com/Bubble2009/Tether-Wallet-spark-based)<br>
 language: :it:
 * :postbox: [about Fee on BitPost](https://github.com/Bubble2009/Bitpost-s-Fee)<br>
 language: :it:
