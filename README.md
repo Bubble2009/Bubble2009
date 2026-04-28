@@ -23,7 +23,7 @@ language: :it:
 language: :it:
 * :postbox: [about Fee on BitPost](https://github.com/Bubble2009/Bitpost-s-Fee)<br>
 language: :it:
-* :watch: [Watch](https://github.com/Bubble2009/Chronograph) (partially published - under construction)<br>
+* :watch: [Watch](https://github.com/Bubble2009/Chronograph) (still in progress)<br>
 language: :it:
 
 ---
