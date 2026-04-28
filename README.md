@@ -25,16 +25,13 @@ language: :it:
 language: :it:
 * :watch: [Watch](https://github.com/Bubble2009/Chronograph) (partially published - under construction)<br>
 language: :it:
-  * Solar-powered watch
-  * Quartz clock
-  * Chronograph<br>
 
 ---
 
 #### I'm working on
 * :secret: Tails
 * :game_die: Dice
-* :email: PGP
+* :email: GPG
 
 
 
